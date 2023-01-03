@@ -1,16 +1,19 @@
-### Hi there 👋
+# 😎Onsemiro's Data Story
 
-<!--
-**onsemiro11/onsemiro11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ✨ Want to be Data Scientist ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :book:Skills:book:
+#### Language: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+#### FrameWork: <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-F37626?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat&logo=scikit learn&logoColor=white"/>
+#### Library:  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
+#### Tool: <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+
+[![Onsemiro's github stats](https://github-readme-stats.vercel.app/api?username=onsemiro11)](https://github.com/anuraghazra/github-readme-stats)
+
+🤔 I want to learn...
+- NLP(transformer...)
+- 추천시스템
+
+
+📫 How to reach me: hanse199911@naver.com
