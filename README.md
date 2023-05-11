@@ -12,8 +12,9 @@
 [![Onsemiro's github stats](https://github-readme-stats.vercel.app/api?username=onsemiro11)](https://github.com/anuraghazra/github-readme-stats)
 
 🤔 I want to learn...
-- NLP(transformer...)
-- 추천시스템
+- computer vision
+- multi modal
+- NLP
 
 
 📫 How to reach me: hanse199911@naver.com
