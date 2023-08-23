@@ -10,7 +10,7 @@
 #### Tool: <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 
-🤔 I want to learn...
+🤔 I'm interested in
 - computer vision
 - multi modal (image captioning + VQA)
 
