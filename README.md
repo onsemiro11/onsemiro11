@@ -9,7 +9,6 @@
 #### Library:  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
 #### Tool: <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
-[![Onsemiro's github stats](https://github-readme-stats.vercel.app/api?username=onsemiro11)](https://github.com/anuraghazra/github-readme-stats)
 
 🤔 I want to learn...
 - computer vision
