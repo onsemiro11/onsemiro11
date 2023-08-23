@@ -12,8 +12,7 @@
 
 🤔 I want to learn...
 - computer vision
-- multi modal
-- NLP
+- multi modal (image captioning + VQA)
 
 
 📫 How to reach me: hanse199911@naver.com
