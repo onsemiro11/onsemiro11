@@ -1,7 +1,8 @@
-# 😎Onsemiro's Data Story
+# Hyundo Lee's Data Story
 
 
-### ✨ Want to be Data Scientist ✨ 
+### ✋Introducion
+
 
 ### :book:Skills:book:
 #### Language: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
