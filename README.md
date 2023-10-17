@@ -24,7 +24,8 @@ OS
 
 🤔 I'm interested in
 - computer vision
-- multi modal (image captioning + VQA)
+- Automatic Drive
+- multi modal
 
 
 📫 How to reach me: hanse199911@naver.com
