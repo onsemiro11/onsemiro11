@@ -5,7 +5,7 @@
 
 대체할 수 없는 인재가 될 이현도입니다.
 
-현재 Visionin R&D 연구소에서 인턴중입니다.
+현재 Visionin R&D 연구소 자율주행팀에서 인턴중입니다.
 
 
 ## :book:Skills:book:
