@@ -1,5 +1,7 @@
 # Hyundo Lee's Data Story
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;wellcome+my+github!!)](https://git.io/typing-svg)
+
 
 ## ✋Introducion
 
@@ -8,11 +10,15 @@
 현재 Visionin R&D 연구소 자율주행팀에서 인턴중입니다.
 
 
-## :book:Skills:book:
+## Skills
 
 Language & FrameWork
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-F37626?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat&logo=scikit learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
+
+FrameWork
+
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-F37626?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat&logo=scikit learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/> 
 
 Tool
 
@@ -20,11 +26,11 @@ Tool
 
 OS
 
-<img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=Windows&logoColor=black">
+<img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=Windows&logoColor=black"> <img src="https://img.shields.io/badge/ros-noetic?style=flat&logo=ros&logoColor=black"/>
 
 🤔 I'm interested in
-- computer vision
 - Automatic Drive
+- computer vision
 - multi modal
 
 
