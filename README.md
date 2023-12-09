@@ -27,10 +27,13 @@ OS
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=Windows&logoColor=black"> <img src="https://img.shields.io/badge/ros-noetic?style=flat&logo=ros&logoColor=black"/>
 
-🤔 I'm interested in
+## 🤔 I'm interested in
 - Automatic Drive
 - computer vision
 - multi modal
 
 
-📫 How to reach me: hanse199911@naver.com
+## 📫 How to reach me
+hanse199911@naver.com
+
+https://instagram.com/onsemiro_ds
