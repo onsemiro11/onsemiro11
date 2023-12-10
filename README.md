@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=hyundo's%20Data%20Story&height=150&fontSize=60&desc=AutoDrive%20computervision%20SLAM&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=hyundo's%20Data%20Story&height=150&fontSize=60&desc=AutoDrive%20SLAM&%20computervisiondescAlignY=75&descAlign=60)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;wellcome+my+github!!)
 
