@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;wellcome+my+github!!)
 
-## ✋Introducion
+## ✋Introduction
 
 대체할 수 없는 인재가 될 이현도입니다.
 
