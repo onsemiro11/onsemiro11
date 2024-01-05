@@ -6,7 +6,7 @@
 
 대체할 수 없는 인재가 될 이현도입니다.
 
-현재 Visionin R&D 연구소 자율주행팀에서 인턴중입니다.
+현재 Visionin R&D 연구소 연구원으로 재직중입니다.
 
 
 ## 🖊️Skills
@@ -30,7 +30,7 @@ OS
 ## 🤔 I'm interested in
 - Automatic Drive
 - computer vision
-- multi modal
+- SLAM
 
 
 ## 📫 How to reach me
