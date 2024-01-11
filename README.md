@@ -35,5 +35,5 @@ OS
 
 ## 📫 How to reach me
 - personal e-mail : hanse199911@naver.com
-- company e-mail :hdlee@vision-in.co.kr
+- company e-mail : hdlee@vision-in.co.kr
 - study instagram : https://instagram.com/onsemiro_ds
