@@ -34,6 +34,6 @@ OS
 
 
 ## 📫 How to reach me
-hanse199911@naver.com
-
-https://instagram.com/onsemiro_ds
+- personal e-main : hanse199911@naver.com
+- company e-mainhdlee@vision-in.co.kr
+- study instagram : https://instagram.com/onsemiro_ds
