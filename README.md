@@ -20,15 +20,15 @@
 
 Language
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
-
-FrameWork
-
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-F37626?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat&logo=scikit learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/-C++-000000?style=C++&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"> 
 
 Tool
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/ros-noetic?style=flat&logo=ros&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
+
+Robotics Tool
+
+<img src="https://img.shields.io/badge/ros-noetic?style=flat&logo=ros&logoColor=black"/> <img src="https://img.shields.io/badge/ros2-foxy?style=flat&logo=ros&logoColor=black"/> [![Autoware.Universe badge](https://img.shields.io/badge/Autoware-Universe-blue.svg)](https://www.autoware.Universe)
 
 OS
 
@@ -37,15 +37,15 @@ OS
 ## 📒 AI Project
 🥈 **`[2nd] Camera & Lidar based Alert Object Detection and Distance Measurement during Driving`**
 > A web interface for Sensor Fusion, Camera - Lidar Calibration and object detection & distance Measurement using streamlit.\
-> [repo link]([https://github.com/lastdefiance20/TryYours-Virtual-Try-On](https://github.com/onsemiro11/-Camera-and-Lidar-based-Alert-Object-Detection-and-Distance-Measurement-during-Driving))
+> [repo link](https://github.com/onsemiro11/-Camera-and-Lidar-based-Alert-Object-Detection-and-Distance-Measurement-during-Driving)
 
 🥇 `[1st] A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble`
 > Vulnerable Detection using object detection and ensemble\
-> [repo link]([https://github.com/lastdefiance20/jaeho](https://github.com/onsemiro11/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Ensemble/tree/main))
+> [repo link](https://github.com/onsemiro11/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Ensemble/tree/main)
 
 🎖️ `P-Quiz app`
 > P-Quiz is an application that generates quizzes with image captioning\
-> [repo link]([[https://github.com/lastdefiance20/jaeho](https://github.com/onsemiro11/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Ensemble/tree/main)](https://github.com/onsemiro11/P-Quiz_APP_image_captioning))
+> [repo link](https://github.com/onsemiro11/P-Quiz_APP_image_captioning)
 
 ## 📫 How to reach me
 - personal e-mail : hanse199911@naver.com
