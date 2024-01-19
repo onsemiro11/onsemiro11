@@ -1,14 +1,21 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=hyundo's%20Data%20Story&height=150&fontSize=60&desc=AutoDrive%20SLAM%20computervision&descAlignY=75&descAlign=60)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;Visual+SLAM+|+Autoware)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;Visual+SLAM+|+NeRF)
 
-## ✋Introduction
+## ✋Hi, I'm HyunDo Lee
+### 😍 be interested in
+  - Automatic Drive
+  - computer vision
+  - Visual SLAM
+  - NeRF
 
-대체할 수 없는 인재가 될 이현도입니다.
+## 💼 Career
+- Visionin intern (2023-09-01~2023-12-31)
+- 🧑🏻‍💻 VisionIn Global R&D center (2024-01-03~)
+  - https://www.vision-in.co.kr/
 
-현재 Visionin R&D 연구소 연구원으로 재직중입니다.
-
-
+## 📝 Publications
+- [A Study on Traffic Vulnerable Detection Using Object Detection-Based Esemble](https://github.com/onsemiro11/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble) - JKSCI 2024 (In press)
 ## 🖊️Skills
 
 Language
@@ -27,10 +34,13 @@ OS
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=Windows&logoColor=black"> 
 
-## 🤔 I'm interested in
-- Automatic Drive
-- computer vision
-- SLAM
+## 📒 AI Project
+🥈 **`[2nd] Camera & Lidar based Alert Object Detection and Distance Measurement during Driving`**
+> A web interface for Sensor Fusion, Camera - Lidar Calibration and object detection & distance Measurement using streamlit.\
+> [repo link]([https://github.com/lastdefiance20/TryYours-Virtual-Try-On](https://github.com/onsemiro11/-Camera-and-Lidar-based-Alert-Object-Detection-and-Distance-Measurement-during-Driving))
+🎖️ `[1st] A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble`
+> Vulnerable Detection using object detection and ensemble\
+> [repo link]([https://github.com/lastdefiance20/jaeho](https://github.com/onsemiro11/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Ensemble/tree/main))
 
 
 ## 📫 How to reach me
