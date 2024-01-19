@@ -38,10 +38,14 @@ OS
 🥈 **`[2nd] Camera & Lidar based Alert Object Detection and Distance Measurement during Driving`**
 > A web interface for Sensor Fusion, Camera - Lidar Calibration and object detection & distance Measurement using streamlit.\
 > [repo link]([https://github.com/lastdefiance20/TryYours-Virtual-Try-On](https://github.com/onsemiro11/-Camera-and-Lidar-based-Alert-Object-Detection-and-Distance-Measurement-during-Driving))
-🎖️ `[1st] A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble`
+
+🥇 `[1st] A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble`
 > Vulnerable Detection using object detection and ensemble\
 > [repo link]([https://github.com/lastdefiance20/jaeho](https://github.com/onsemiro11/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Ensemble/tree/main))
 
+🎖️ `P-Quiz app`
+> P-Quiz is an application that generates quizzes with image captioning\
+> [repo link]([[https://github.com/lastdefiance20/jaeho](https://github.com/onsemiro11/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Ensemble/tree/main)](https://github.com/onsemiro11/P-Quiz_APP_image_captioning))
 
 ## 📫 How to reach me
 - personal e-mail : hanse199911@naver.com
