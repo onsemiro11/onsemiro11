@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;Visual+SLAM+|+NeRF)
 
 ## ✋Hi, I'm HyunDo Lee
-### 😍 be interested in
+### 😍 I'm interested in
   - Automatic Drive
   - computer vision
   - Visual SLAM
