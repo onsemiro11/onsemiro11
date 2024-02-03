@@ -15,7 +15,7 @@
   - https://www.vision-in.co.kr/
 
 ## 📝 Publications
-- [A Study on Traffic Vulnerable Detection Using Object Detection-Based Esemble](https://github.com/onsemiro11/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble) - JKSCI 2024 (In press)
+- [A Study on Traffic Vulnerable Detection Using Object Detection-Based Esemble](http://www.ibookkorea.net/Viewer/KSCI_29_01) - JKSCI Vol.29 No.1 pp. 61-68 January 2024
 ## 🖊️Skills
 
 Language
