@@ -7,7 +7,6 @@
   - Automatic Drive
   - computer vision
   - Visual SLAM
-  - NeRF
 
 ## 💼 Career
 - Visionin intern (2023-09-01~2023-12-31)
