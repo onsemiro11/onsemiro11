@@ -10,7 +10,7 @@
 
 ## 💼 Career
 - Visionin intern (2023-09-01~2023-12-31)
-- 🧑🏻‍💻 VisionIn Global R&D center (2024-01-03~)
+- 🧑🏻‍💻 VisionIn Global R&D center Researcher(2024-01-03~)
   - https://www.vision-in.co.kr/
 
 ## 📝 Publications
