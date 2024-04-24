@@ -1,6 +1,6 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000090&text=hyundo's%20Data%20Story&height=150&fontSize=60&desc=AutoDrive%20SLAM%20computervision&descAlignY=75&descAlign=60)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;VSLAM+|+Tracking)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;Mobility+Robot+|+Tracking)
 
 ## ✋Hi, I'm HyunDo Lee
 ### 😍 I'm interested in
