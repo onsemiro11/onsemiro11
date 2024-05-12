@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000090&text=hyundo's%20Data%20Story&height=150&fontSize=60&desc=AutoDrive%20SLAM%20computervision&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2c2ff5&text=hyundo's%20AI%20Story&height=150&fontSize=60&desc=AutoDrive%20SLAM%20computervision&descAlignY=75&descAlign=60)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;Mobility+Robot+|+Tracking)
 
@@ -15,7 +15,16 @@
 
 ## 📝 Publications
 - [A Study on Traffic Vulnerable Detection Using Object Detection-Based Esemble](http://www.ibookkorea.net/Viewer/KSCI_29_01) - JKSCI Vol.29 No.1 pp. 61-68 January 2024
-## 🖊️Skills
+
+## 🏅 Activity
+|PERIOD|TITLE|주최기관|설명|
+|---|---|---|---|
+|2023.06.~<br>2023.08.|2023 고려대학교 데이터청년캠퍼스|고려대학교|Python, database 수강 / P-Quiz 프로젝트 개발|
+|2023.05.~<br>2023.06.|네이버 커넥트재단 부스트코스 코칭스터디 10기 리더|NAVER|리더 활동으로 수료|
+|2019.03.-<br>2019.12.|"좋은데이" 학부 동아리 회장|교내|학과 대표 학술 동아리 회장 역임|
+|2019.08.|2019 날씨 빅데이터 경진대회 평가단|기상청|국민 평가단 10명중 한명으로 참가|
+
+## 🖊️ Skills
 
 Language
 
