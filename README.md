@@ -44,7 +44,7 @@ OS
 
 ## 📒 AI Project
 🥈 **`[2nd] Camera & Lidar based Alert Object Detection and Distance Measurement during Driving`**
-> A web interface for Sensor Fusion, Camera - Lidar Calibration and object detection & distance Measurement using streamlit.\
+> A web interface for Sensor Fusion, Camera - Lidar Calibration and object detection & Tracking & distance Measurement using streamlit.\
 > [repo link](https://github.com/onsemiro11/-Camera-and-Lidar-based-Alert-Object-Detection-and-Distance-Measurement-during-Driving)
 
 🥇 `[1st] A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble`
