@@ -4,8 +4,8 @@
 
 ## ✋Hi, I'm HyunDo Lee
 ### 😍 I'm interested in
-  - Automatic Drive
-  - computer vision
+  - Automatic Drive - Mobility Robot
+  - Computer Vision - Tracking
   - Multi Modal
 
 ## 💼 Career
