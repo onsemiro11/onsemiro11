@@ -10,8 +10,9 @@
 
 ## 💼 Career
 - Visionin intern (2023-09-01~2023-12-31)
-- 🧑🏻‍💻 VisionIn Global R&D center Researcher(2024-01-03~)
-  - https://www.vision-in.co.kr/
+- VisionIn Global R&D center Researcher(2024-01-03~2024-06-24)
+- 🧑🏻‍💻 TreezeEngineering SmartMobilityDivision pro(2024-06-25~)
+  - https://www.treeze-eng.com/
 
 ## 📝 Publications
 - [A Study on Traffic Vulnerable Detection Using Object Detection-Based Esemble](http://www.ibookkorea.net/Viewer/KSCI_29_01) - JKSCI Vol.29 No.1 pp. 61-68 January 2024
