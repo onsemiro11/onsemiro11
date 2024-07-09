@@ -9,9 +9,14 @@
   - Multi Modal
 
 ## 💼 Career
-- Visionin intern (2023-09-01~2023-12-31)
-- VisionIn Global R&D center Researcher(2024-01-03~2024-06-24)
-- 🧑🏻‍💻 TreezeEngineering SmartMobilityDivision SW Engineer(2024-06-25~)
+- VisionIn (2023-09-01~2023-12-31)
+  - intern 
+- VisionIn (2024-01-03~2024-06-24)
+  - Global R&D center
+  - Researcher
+- 🧑🏻‍💻 TreezeEngineering (2024-06-25~)
+  - Smart Mobility Division
+  - SW Engineer
   - https://www.treeze-eng.com/
 
 ## 📝 Publications
