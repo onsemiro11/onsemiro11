@@ -11,7 +11,7 @@
 ## 💼 Career
 - Visionin intern (2023-09-01~2023-12-31)
 - VisionIn Global R&D center Researcher(2024-01-03~2024-06-24)
-- 🧑🏻‍💻 TreezeEngineering SmartMobilityDivision pro(2024-06-25~)
+- 🧑🏻‍💻 TreezeEngineering SmartMobilityDivision SW Engineer(2024-06-25~)
   - https://www.treeze-eng.com/
 
 ## 📝 Publications
