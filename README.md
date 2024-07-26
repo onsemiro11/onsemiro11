@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2c2ff5&text=hyundo's%20AI%20Story&height=150&fontSize=60&desc=AutoDrive%20SLAM%20computervision&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=2c2ff5&text=hyundo's%20AI%20Story&height=150&fontSize=60&desc=AutoDrive%20Mobility%20computervision&descAlignY=75&descAlign=60)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Auto+drive+|+computer+vision;Mobility+Robot+|+Tracking)
 
