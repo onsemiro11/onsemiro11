@@ -6,7 +6,7 @@
 ### 😍 I'm interested in
   - Automatic Drive - Mobility Robot
   - Computer Vision - Tracking
-  - Multi Modal
+  - LiDAR and Camera data
 
 ## 💼 Career
 - VisionIn (2023-09-01~2023-12-31)
