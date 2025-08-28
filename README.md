@@ -14,7 +14,7 @@
 - VisionIn (2024-01-03~2024-06-24)
   - Global R&D center
   - Researcher
-- 🧑🏻‍💻 TreezeEngineering (2024-06-25~)
+- 🧑🏻‍💻 TREEZE (2024-06-25~)
   - Smart Mobility Division
   - SW Engineer
   - https://www.treeze-eng.com/
